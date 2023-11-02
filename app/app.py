@@ -1,12 +1,19 @@
 from fastapi import FastAPI, HTTPException, Query
 from main import query
 from env import chain
+from pydantic import BaseModel
 
 
 app = FastAPI()
 
-@app.post("/process_resume")
-async def process_resume(resume: str):
+
+class Input(BaseModel):
+    personal_information: str
+
+
+@app.post("/task1")
+async def process_resume(input: Input):
     # Simulate processing the resume string
-    res = chain({"query": query(resume)})
-    return res['result']
+    print(query(input.personal_information))
+    res = chain({"query": query(input.personal_information)})
+    return res
