@@ -37,8 +37,7 @@ vectorstore = Pinecone(
     index, embed_model.embed_query, text_field
 )
 
-# API_KEY = "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"
-API_KEY = "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"
+API_KEY = 
 os.environ["OPENAI_API_KEY"] = API_KEY
 llm = get_llm(max_tokens=8192)
 
