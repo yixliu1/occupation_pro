@@ -14,6 +14,6 @@ class Input(BaseModel):
 @app.post("/task1")
 async def process_resume(input: Input):
     # Simulate processing the resume string
-    print(query(input.personal_information))
+    # print(query(input.personal_information))
     res = chain({"query": query(input.personal_information)})
-    return res
+    return res['result']
