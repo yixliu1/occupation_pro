@@ -1,0 +1,29 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/software-tester</h1>
+<h1>Occupation Name: Software Tester</h1>
+<h1>ANZSCO Code: 261314</h1>
+<h1>Assessment Authorities: ACS</h1>
+<h2>Job description </h2>
+<p>Specifies, develops and writes test plans and test scripts, produces test cases, carries out regression testing, and uses automated test software applications to test the behaviour, functionality and integrity of computer software, and documents the results of tests in defect reports and related documentation.</p>
+<p>Software Tester may perform the following tasks:</p>
+<li>researching, consulting, analysing and evaluating system program needs</li>
+<li>identifying technology limitations and deficiencies in existing systems and associated processes, procedures and methods</li>
+<li>testing, debugging, diagnosing and correcting errors and faults in an applications programming language within established testing protocols, guidelines and quality standards to ensure programs and applications perform to specification</li>
+<li>writing and maintaining program code to meet system requirements, system designs and technical specifications in accordance with quality accredited standards</li>
+<li>writing, updating and maintaining technical program, end user documentation and operational procedures</li>
+<li>providing advice, guidance and expertise in developing proposals and strategies for software design activities such as financial evaluation and costings for recommending software purchases and upgrades</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Short-term Skilled Occupation List (STSOL) . STSOL consists of the list of the occupations which are high in demand in Australia. If you want to apply for Australia sponsored Permanent Residency (subclass 190) your occupation must be listed in the relevant STSOL list and you must have an invitation/sponsorship from the state government. This list is also a part of the Australia Point system. If eligible, you can live and work in Australia for an indefinite period of time.</p>
+<p>If your occupation is on STSOL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Temporary Skill Shortage visa (subclass 482) - Short-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>The assessment authority for this occupation is Australian Computer Society (ACS) and the ACS skills assessment will assess if your educational qualifications and work experience are at a professional ICT level and closely related to your nominated occupation for migration purposes.</p>
+<p>You are required to receive a positive assessment for your qualifications and work experience from Australian Computer Society if you are planning to migrate to Australia through </p>
+<p>skill migration program</p>
+<p>.</p>
+<p>Click </p>
+<p>here</p>
+<p> to read further information regarding the process of assessment by Australian Computer Society.</p>

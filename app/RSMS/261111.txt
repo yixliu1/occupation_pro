@@ -1,0 +1,36 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/ict-business-analyst</h1>
+<h1>Occupation Name: ICT Business Analyst</h1>
+<h1>ANZSCO Code: 261111</h1>
+<h1>Assessment Authorities: ACS</h1>
+<h2>Job description </h2>
+<p>ICT Business Analyst identifies and communicates with users to formulate and produce a requirements specification to create system and software solutions.</p>
+<p>ICT Business Analyst may perform the following tasks: </p>
+<li>working with users to formulate and document business requirements</li>
+<li>identifying, investigating, and analysing business processes, procedures and work practices</li>
+<li>identifying and evaluating inefficiencies and recommending optimal business practices, and system functionality and behaviour</li>
+<li>using project management methodologies, principles and techniques to develop project plans and to cost, resource and manage projects</li>
+<li>taking responsibility for deploying functional solutions, such as creating, adopting and implementing system test plans, which ensure acceptable quality and integrity of the system</li>
+<li>creating user and training documentation, and conducting formal training classes</li>
+<li>developing functional specifications for use by system developers</li>
+<li>using data and process modelling techniques to create clear system specifications for the design and development of system software</li>
+<li>acting as a central reference and information source, providing guidance and assistance in the system project decision making process</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Medium and Long-term Strategic Skills List (MLTSSL). MLTSSL is the occupational demand list which is in high demand across various states and territories of Australia.</p>
+<p>If your occupation is on MTSSL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled independent ( Subclass189)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - Family nominated</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Employer Nomination Scheme (subclass 186)- Direct Entry and Temporary Residence Transition streams</li>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Temporary Graduate visa (subclass 485)– Graduate Work</li>
+<li>Temporary Skill Shortage visa (subclass 482) Medium-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>The assessment authority for this occupation is Australian Computer Society (ACS) and the ACS skills assessment will assess if your educational qualifications and work experience are at a professional ICT level and closely related to your nominated occupation for migration purposes.</p>
+<p>You are required to receive a positive assessment for your qualifications and work experience from Australian Computer Society if you are planning to migrate to Australia through </p>
+<p>skill migration program</p>
+<p>.</p>
+<p>Click </p>
+<p>here</p>
+<p> to read further information regarding the process of assessment by Australian Computer Society.</p>

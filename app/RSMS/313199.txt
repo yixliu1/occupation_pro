@@ -1,0 +1,37 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/ict-support-technicians-nec</h1>
+<h1>Occupation Name: ICT Support Technicians (nec)</h1>
+<h1>ANZSCO Code: 313199</h1>
+<h1>Assessment Authorities: TRA</h1>
+<h2>Job description </h2>
+<p>This occupation group covers ICT Support Technicians not elsewhere classified. Occupations in this group include: </p>
+<p>Applications Packager</p>
+<p>, </p>
+<p>Computer Systems Technician</p>
+<p>, </p>
+<p>Telecommunications Computer Systems Technician.</p>
+<p>ICT Support Technicians may perform the following tasks: </p>
+<li>installing, maintaining, repairing and diagnosing malfunctions of microwave, telemetry, multiplexing, satellite and other radio and electromagnetic wave communication systems</li>
+<li>configuring and integrating network and telecommunications technology with computer software, hardware, desktops, peripherals, databases and operating systems</li>
+<li>developing and recording logs of the details, locations and status of inventories, parts, equipment and instruments and maintaining the documentation of communication policies, procedures, guidelines and regulations, and quality standards</li>
+<li>providing technical advice and information, and monitoring the performance of complex telecommunications networks and equipment</li>
+<li>planning the development of customer access telecommunications network infrastructure</li>
+<li>liaising with vendors, suppliers, service providers and external resources and monitoring contractual obligations and performance delivery</li>
+<li>providing ongoing operational support in designing, optimising, troubleshooting, diagnosing, repairing and resolving of telecommunications network performance malfunctions, defects and faults</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Short-term Skilled Occupation List (STSOL) . STSOL consists of the list of the occupations which are high in demand in Australia. If you want to apply for Australia sponsored Permanent Residency (subclass 190) your occupation must be listed in the relevant STSOL list and you must have an invitation/sponsorship from the state government. This list is also a part of the Australia Point system. If eligible, you can live and work in Australia for an indefinite period of time.</p>
+<p>If your occupation is on STSOL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Temporary Skill Shortage visa (subclass 482) - Short-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>The assessment authority for this occupation is </p>
+<p>Trades Recognition Australia (TRA)</p>
+<p> and the TRA skills assessment will assess if your educational qualifications and work experience are at a professional level and closely related to your nominated occupation for migration purposes.</p>
+<p>You are required to receive a positive assessment for your qualifications and work experience from Trades Recognition Australia if you are planning to migrate to Australia through </p>
+<p>skill migration program</p>
+<p>.</p>
+<p>Click </p>
+<p>here</p>
+<p> to read further information regarding the assessment process of Trades Recognition Australia.</p>

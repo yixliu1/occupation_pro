@@ -1,0 +1,33 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/ict-systems-test-engineer</h1>
+<h1>Occupation Name: ICT Systems Test Engineer</h1>
+<h1>ANZSCO Code: 263213</h1>
+<h1>Assessment Authorities: ACS</h1>
+<h2>Job description </h2>
+<p>ICT Systems Test Engineer specifies, develops and writes test plans and test scripts, produces test cases, carries out regression testing, and uses automated test software applications to test the behaviour, functionality and integrity of systems, and documents the results of tests in defect reports and related documentation.</p>
+<p>ICT Systems Test Engineer may perform the following tasks: </p>
+<li>scheduling and conducting quality audit inspections, and analysing and reviewing systems, data and documentation</li>
+<li>identifying variations and potential high risk areas in securing adherence to standards and procedures</li>
+<li>recommending corrective action plans and improvements in the resolution of non-compliance with standards detected through monitoring and auditing of processes and procedures</li>
+<li>communicating, educating and liaising with users and management to ensure awareness and adherence to standards, procedures and quality control issues and activities</li>
+<li>assisting in troubleshooting, diagnosing, testing and resolving system problems and issues</li>
+<li>developing, conducting and providing technical guidance and training in application software and operational procedures</li>
+<li>analysing, evaluating and diagnosing technical problems and issues such as installation, maintenance, repair, upgrade and configuration and troubleshooting of desktops, software, hardware, printers, Internet, email, databases, operating systems and security systems</li>
+<li>testing, identifying and diagnosing functionality errors and faults in systems, and programming code within established testing protocols, guidelines and quality standards to ensure systems perform to specification</li>
+<li>performing organisational systems architecture reviews and assessments, and recommending current and future hardware and software strategies and directions</li>
+<li>creating and reviewing technical documentation such as procedural, instructional and operational guides and manuals, technical reports and specifications and maintenance inventory systems</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Short-term Skilled Occupation List (STSOL) . STSOL consists of the list of the occupations which are high in demand in Australia. If you want to apply for Australia sponsored Permanent Residency (subclass 190) your occupation must be listed in the relevant STSOL list and you must have an invitation/sponsorship from the state government. This list is also a part of the Australia Point system. If eligible, you can live and work in Australia for an indefinite period of time.</p>
+<p>If your occupation is on STSOL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Temporary Skill Shortage visa (subclass 482) - Short-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>The assessment authority for this occupation is Australian Computer Society (ACS) and the ACS skills assessment will assess if your educational qualifications and work experience are at a professional ICT level and closely related to your nominated occupation for migration purposes.</p>
+<p>You are required to receive a positive assessment for your qualifications and work experience from Australian Computer Society if you are planning to migrate to Australia through </p>
+<p>skill migration program</p>
+<p>.</p>
+<p>Click </p>
+<p>here</p>
+<p> to read further information regarding the process of assessment by Australian Computer Society.</p>

@@ -1,0 +1,32 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/software-and-applications-programmers</h1>
+<h1>Occupation Name: Software and Applications Programmers ( NEC) </h1>
+<h1>ANZSCO Code: 261399</h1>
+<h1>Assessment Authorities: ACS</h1>
+<h2>Job description </h2>
+<p>This occupation group covers Software and Applications Programmers not elsewhere classified. Occupations in this group include: Software Tester .</p>
+<p>Software and Applications Programmers may perform the following tasks:</p>
+<li>identifying, formulating and documenting user ICT requirements</li>
+<li>providing advice, guidance, expertise and assistance in the system project decision making process and in the development of system proposals and strategies</li>
+<li>identifying and evaluating inefficiencies, deficiencies and limitations in existing systems and associated processes, procedures and methods, and recommending optimal business practices, and system functionality and behaviour</li>
+<li>testing, debugging, diagnosing and correcting problems to ensure acceptable quality and integrity of the system, and that programs and applications perform to specification</li>
+<li>designing and developing digital animations, imaging, presentations, games, video clips, and Internet applications using multimedia software, tools and utilities, interactive graphics and programming language</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Medium and Long-term Strategic Skills List (MLTSSL). MLTSSL is the occupational demand list which is in high demand across various states and territories of Australia.</p>
+<p>If your occupation is on MTSSL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled independent ( Subclass189)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - Family nominated</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Employer Nomination Scheme (subclass 186)- Direct Entry and Temporary Residence Transition streams</li>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Temporary Graduate visa (subclass 485)– Graduate Work</li>
+<li>Temporary Skill Shortage visa (subclass 482) Medium-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>The assessment authority for this occupation is Australian Computer Society (ACS) and the ACS skills assessment will assess if your educational qualifications and work experience are at a professional ICT level and closely related to your nominated occupation for migration purposes.</p>
+<p>You are required to receive a positive assessment for your qualifications and work experience from Australian Computer Society if you are planning to migrate to Australia through </p>
+<p>skill migration program</p>
+<p>.</p>
+<p>Click </p>
+<p>here</p>
+<p> to read further information regarding the process of assessment by Australian Computer Society.</p>

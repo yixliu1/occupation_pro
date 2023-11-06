@@ -1,0 +1,31 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/mathematician</h1>
+<h1>Occupation Name: Mathematician</h1>
+<h1>ANZSCO Code: 224112</h1>
+<h1>Assessment Authorities: VETASSESS</h1>
+<h2>Job description </h2>
+<p>Mathematician develops and applies mathematical principles and techniques to solve problems in all areas of the sciences, engineering, technology, social sciences, business, industry and commerce.</p>
+<p>Mathematicians may perform the following tasks:</p>
+<li>apply geometry and calculus to design objects in fields such as architecture, computer graphics and robotics</li>
+<li>analyse statistics to find predictive models for traffic flow, insurance risks, consumer research, market analysis and clinical trials</li>
+<li>develop predictive models for financial markets and products for financial risk management</li>
+<li>simulate processes in chemical, mining or agricultural industries by translating them into mathematical models</li>
+<li>develop computer modelling for industrial design</li>
+<li>develop and improve mathematical models to describe natural phenomena such as soil erosion, the weather and climate, ocean currents or biological behaviour</li>
+<li>develop computer programmes for use in mathematical modelling and problem-solving</li>
+<li>design computer programmes to make and break complex security codes, or investigate and develop schemes for information security</li>
+<li>carry out network analysis for the study of road systems, airline routes, transport and communication systems</li>
+<li>use linear programming for urban, regional and transport planning</li>
+<li>engage in image and signal processing for astronomy, cartography and medical and radar imaging</li>
+<li>analyse problems for the service, engineering or manufacturing sectors</li>
+<li>develop communications technology and information theory</li>
+<li>develop new mathematical structures, ranging across the areas of pure and applied mathematics, statistics, computing, operations research, commerce and industry</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Short-term Skilled Occupation List (STSOL) . STSOL consists of the list of the occupations which are high in demand in Australia. If you want to apply for Australia sponsored Permanent Residency (subclass 190) your occupation must be listed in the relevant STSOL list and you must have an invitation/sponsorship from the state government. This list is also a part of the Australia Point system. If eligible, you can live and work in Australia for an indefinite period of time.</p>
+<p>If your occupation is on STSOL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Temporary Skill Shortage visa (subclass 482) - Short-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>Mathematician is classified as Group A occupations by Vetassess. The criteria for skills assessment of Group A occupations is to hold qualification(s) assessed at Australian Bachelor degree or higher degree with a highly relevant field of study and at least one year of post-qualification highly relevant employment in the last five years.</p>

@@ -1,0 +1,30 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/clinical-coder</h1>
+<h1>Occupation Name: Clinical Coder</h1>
+<h1>ANZSCO Code: 599915</h1>
+<h1>Assessment Authorities: VETASSESS</h1>
+<h2>Job description </h2>
+<p>Clinical Coder assigns codes to narrative descriptions of patients' diseases, operations and procedures in accordance with recognised classification systems to allow for easy storage, retrieval and analysis of health data.</p>
+<p>Clinical coders may perform the following tasks:</p>
+<li>read and analyse medical records to help identify all diagnoses, operations and procedures relevant to the current period of patient care</li>
+<li>clarify inconsistent or non-specific information in a medical record by consulting with the responsible medical practitioner</li>
+<li>allocate codes to patients' current period of care, using knowledge of the information contained within the International Classification of Diseases, 10th Revision Australian Modification, commonly referred to as ICD-10-AM</li>
+<li>conduct assessment of work to ensure there is continuous improvement in ICD-10-AM coding and collection of quality health data</li>
+<li>assess the medical record content and highlight shortcomings to management</li>
+<li>maintain ICD-10-AM coding books to make sure they are updated to the current version being used</li>
+<li>assist with the education of clinical staff with regard to ICD-10-AM</li>
+<li>work with computing and finance staff</li>
+<li>ensure the patient episode is allocated to the correct Diagnosis Related Group (DRG)</li>
+<li>assist with medical research and casemix (patient statistics) projects.</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Regional Occupation List (ROL). Regional Occupation List consists of the list of the occupations which are high in demand in regional states and territories of Australia.</p>
+<p>If your occupation is on ROL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Temporary Skill Shortage visa (subclass 482) Medium-term stream</li>
+<li>Training visa (subclass 407)</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>Clinical Coder is classified as Group D occupations by Vetassess. The criteria for skills assessment of Group D occupations are the following:</p>
+<li>Qualification(s) assessed at AQF Certificate IV with a highly relevant field of study and at least one year of post-qualification highly relevant employment completed in the last five years;</li>
+<li>Qualification(s) assessed at AQF Certificate IV without a highly relevant field of study and at least two years of post-qualification highly relevant employment completed in the last five years;</li>
+<li>Qualification(s) assessed at AQF Certificate III with a highly relevant field of study and at least three years of post-qualification highly relevant employment completed in the last five years;</li>
+<p>According to Vetassess, if you have pre-qualification employment and if all of your employment is before your qualifications assessed at the AQF Certificate III or Certificate IV level), three years of highly relevant employment in addition to at least one year of highly relevant employment at an appropriate skill level completed in the last five years.</p>

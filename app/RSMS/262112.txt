@@ -1,0 +1,37 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/ict-security-specialist</h1>
+<h1>Occupation Name: ICT Security Specialist</h1>
+<h1>ANZSCO Code: 262112</h1>
+<h1>Assessment Authorities: ACS</h1>
+<h2>Job description </h2>
+<p>ICT Security Specialist establishes, manages and administers an organisation's ICT security policy and procedures to ensure preventive and recovery strategies are in place, and minimise the risk of internal and external security threats.</p>
+<p>ICT Security Specialist may perform the following tasks: </p>
+<li>designing and maintaining database architecture, data structures, tables, dictionaries and naming conventions to ensure the accuracy and completeness of all data master files</li>
+<li>performing the operational establishment and preventive maintenance of backups, recovery procedures, and enforcing security and integrity controls</li>
+<li>implementing and administering database documentation, guidelines, policies and procedures</li>
+<li>testing database systems and upgrades, such as debugging, tracking, reproduction, logging and resolving all identified problems, according to approved quality testing scripts, procedures and processes</li>
+<li>accepting responsibility for the processes, procedures and operational management associated with system security and disaster recovery planning</li>
+<li>liaising with security vendors, suppliers, service providers and external resources; analysing, recommending, installing and maintaining software security applications; and monitoring contractual obligations, performance delivery and service level agreements</li>
+<li>troubleshooting and providing service support in diagnosing, resolving and repairing server-related hardware and software malfunctions, encompassing workstations and communication infrastructure</li>
+<li>preparing and maintaining documentation, policies and instructions, and recording and detailing operational procedures and system logs</li>
+<li>ensuring that the design of computer sites allows all components to fit together and work properly, and monitoring and adjusting the performance of networks</li>
+<li>continually surveying the current computer site to determine future network needs and making recommendations for enhancements in the implementation of future servers and networks</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Medium and Long-term Strategic Skills List (MLTSSL). MLTSSL is the occupational demand list which is in high demand across various states and territories of Australia.</p>
+<p>If your occupation is on MTSSL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled independent ( Subclass189)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - Family nominated</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Employer Nomination Scheme (subclass 186)- Direct Entry and Temporary Residence Transition streams</li>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Temporary Graduate visa (subclass 485)– Graduate Work</li>
+<li>Temporary Skill Shortage visa (subclass 482) Medium-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>The assessment authority for this occupation is Australian Computer Society (ACS) and the ACS skills assessment will assess if your educational qualifications and work experience are at a professional ICT level and closely related to your nominated occupation for migration purposes.</p>
+<p>You are required to receive a positive assessment for your qualifications and work experience from Australian Computer Society if you are planning to migrate to Australia through </p>
+<p>skill migration program</p>
+<p>.</p>
+<p>Click </p>
+<p>here</p>
+<p> to read further information regarding the process of assessment by Australian Computer Society.</p>

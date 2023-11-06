@@ -1,0 +1,32 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/multimedia-specialist</h1>
+<h1>Occupation Name: Multimedia Specialist</h1>
+<h1>ANZSCO Code: 261211</h1>
+<h1>Assessment Authorities: ACS</h1>
+<h2>Job description </h2>
+<p>Multimedia Specialist creates and manipulates computer animation, audio, video and graphic image files into multimedia programs to produce data and content for CD-ROMs, information kiosks, multimedia presentations, web sites, mobile telephone resources, electronic gaming environments, e-commerce and e-security solutions, and entertainment and education products.</p>
+<p>Multimedia Specialist may perform the following tasks:</p>
+<li>analysing, designing and developing Internet sites applying a mixture of artistry and creativity with software programming and scripting languages and interfacing with operating environments</li>
+<li>designing and developing digital animations, imaging, presentations, games, audio and video clips, and Internet applications using multimedia software, tools and utilities, interactive graphics and programming languages</li>
+<li>communicating with network specialists regarding web-related issues, such as security and hosting web sites, to control and enforce Internet and web server security, space allocation, user access, business continuity, web site backup and disaster recovery planning</li>
+<li>designing, developing and integrating computer code with other specialised inputs, such as image files, audio files and scripting languages, to produce, maintain and support web sites</li>
+<li>assisting in analysing, specifying and developing Internet strategies, web-based methodologies and development plans</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Medium and Long-term Strategic Skills List (MLTSSL). MLTSSL is the occupational demand list which is in high demand across various states and territories of Australia.</p>
+<p>If your occupation is on MTSSL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled independent ( Subclass189)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - Family nominated</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Employer Nomination Scheme (subclass 186)- Direct Entry and Temporary Residence Transition streams</li>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Temporary Graduate visa (subclass 485)– Graduate Work</li>
+<li>Temporary Skill Shortage visa (subclass 482) Medium-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>The assessment authority for this occupation is Australian Computer Society (ACS) and the ACS skills assessment will assess if your educational qualifications and work experience are at a professional ICT level and closely related to your nominated occupation for migration purposes.</p>
+<p>You are required to receive a positive assessment for your qualifications and work experience from Australian Computer Society if you are planning to migrate to Australia through </p>
+<p>skill migration program</p>
+<p>.</p>
+<p>Click </p>
+<p>here</p>
+<p> to read further information regarding the process of assessment by Australian Computer Society.</p>

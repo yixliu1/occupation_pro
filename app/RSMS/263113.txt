@@ -1,0 +1,31 @@
+<h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/network-analyst</h1>
+<h1>Occupation Name: Network Analyst</h1>
+<h1>ANZSCO Code: 263113</h1>
+<h1>Assessment Authorities: ACS</h1>
+<h2>Job description </h2>
+<p>Network Analyst researches and analyses network architecture, and recommends policies and strategies for designing, planning and coordinating an organisation's network such as the total system environment and architecture. May also perform operational tasks such as monitoring system performance, software and hardware upgrades, backups, support and network maintenance.</p>
+<p>Network Analyst may perform the following tasks:</p>
+<li>analysing, developing, interpreting and evaluating complex system design and architecture specifications, data models and diagrams in the development, configuration and integration of computer systems</li>
+<li>researching, analysing, evaluating and monitoring network infrastructure to ensure networks are configured to operate at optimal performance</li>
+<li>assessing and recommending improvements to network operations and integrated hardware, software, communications and operating systems</li>
+<li>providing specialist skills in supporting and troubleshooting network problems and emergencies</li>
+<li>installing, configuring, testing, maintaining and administering new and upgraded networks, software database applications, servers and workstations</li>
+<li>providing network programming in support of specific business needs and requirements</li>
+<li>preparing and maintaining procedures and documentation for network inventory, and recording diagnosis and resolution of network faults, enhancements and modifications to networks, and maintenance instructions</li>
+<li>monitoring network traffic, and activity, capacity and usage to ensure continued integrity and optimal network performance</li>
+<h2>Eligible applying visa subclasses</h2>
+<p>This occupation belongs to Short-term Skilled Occupation List (STSOL) . STSOL consists of the list of the occupations which are high in demand in Australia. If you want to apply for Australia sponsored Permanent Residency (subclass 190) your occupation must be listed in the relevant STSOL list and you must have an invitation/sponsorship from the state government. This list is also a part of the Australia Point system. If eligible, you can live and work in Australia for an indefinite period of time.</p>
+<p>If your occupation is on STSOL, you may be eligible to apply for the following visa subclasses:</p>
+<li>Skilled Nominated visa (subclass 190)</li>
+<li>Training visa (subclass 407)</li>
+<li>Skilled Work Regional (Provisional) visa (subclass 491) - State or Territory nominated</li>
+<li>Temporary Skill Shortage visa (subclass 482) - Short-term stream</li>
+<li>Skilled Employer Sponsored Regional (Provisional) visa (Subclass 494)</li>
+<h2>Requirements for Skills Assessment</h2>
+<p>The assessment authority for this occupation is Australian Computer Society (ACS) and the ACS skills assessment will assess if your educational qualifications and work experience are at a professional ICT level and closely related to your nominated occupation for migration purposes.</p>
+<p>You are required to receive a positive assessment for your qualifications and work experience from Australian Computer Society if you are planning to migrate to Australia through </p>
+<p>skill migration program</p>
+<p>.</p>
+<p>Click </p>
+<p>here</p>
+<p> to read further information regarding the process of assessment by Australian Computer Society.</p>
