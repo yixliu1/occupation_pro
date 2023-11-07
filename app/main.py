@@ -15,7 +15,7 @@ def query(resume):
     4. In the "Alignment with Educational Background" section, provide detailed alignment using specific courses, projects, or academic achievements mentioned in the personal background if there is any. Explain how these academic experiences align with the qualification requirements for the recommended occupation, mentioning the exact courses or projects the individual has undertaken that are relevant to the occupation.
     5. In the "Alignment with Employment Background" section, provide detailed alignment using specific experiences mentioned in the personal background. Mention the exact duties the individual has worked on and explain how these experiences align with the employment requirements for the recommended occupation. If no working experience mentioned, explicitly state that there's no alignment rather than attempting to create a forced connection.
     6. Calculate the match score after analysing the alignment in both educational & employment background, using these alignment information to calculate the matching score.
-    7. At least list three recommended occupations. If there are more than three occupations with matching score over 75%, Only list occupations with a match score of 75% or above, sorted from highest to lowest matching score.
+    7. At least list four recommended occupations. If there are more than four occupations with matching score over 75%, Only list occupations with a match score of 75% or above, sorted from highest to lowest matching score.
     
     {{Personal Background}}:
     {resume}
