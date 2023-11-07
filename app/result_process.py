@@ -57,7 +57,7 @@ def replace_values(chunk, occupation_name, reference_link, assessment_name):
 def replace_visa(chunk, visa_list):
     visa_text = '\n'
     for i in visa_list:
-        visa_text += f'\t-{i}\n'
+        visa_text += f'        - {i}\n'
     chunk = re.sub(r'([Aa]pplicable [Vv]isa.+:\s*).+', r'\1' + visa_text, chunk, flags=re.MULTILINE)
 
     return chunk
