@@ -1,6 +1,6 @@
 <h1>Reference link: https://www.shada.com.au/skilled-occupation-list/rsms-rol-occupation/hydrogeologist</h1>
 <h1>Occupation Name: Hydrogeologist</h1>
-<h1>ANZSCO Code: 132311</h1>
+<h1>ANZSCO Code: 234413</h1>
 <h1>Assessment Authorities: VETASSESS</h1>
 <h2>Job description </h2>
 <p>Hydrogeologist monitors, measures, analyses and describes the earth’s surface and groundwater resources and many aspects of the water cycle, including human use of water resources.</p>
